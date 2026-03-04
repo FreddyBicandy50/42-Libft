@@ -1,4 +1,4 @@
-# libft
+# Lib_FT
 
 <p align="center">
   <img src="https://github.com/FreddyBicandy50/FreddyBicandy50/blob/main/42_badges/libftm.png" alt="libft 42 project badge"/>
